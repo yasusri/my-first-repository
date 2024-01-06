@@ -1,4 +1,4 @@
 # my-first-repository
 This is my very first repository
 
-Editing this Readme.md file now.This file now modified locally
+This line was added manually during conflict resolution
